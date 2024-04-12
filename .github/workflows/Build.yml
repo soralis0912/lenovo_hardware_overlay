@@ -2,7 +2,8 @@ name: Overlay
 
 on:
   pull_request:
-    branches: [pie]
+    branches: [main]
+  workflow_dispatch: {}
 
 jobs:
   build:
