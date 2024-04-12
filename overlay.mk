@@ -1,3 +1,3 @@
 PRODUCT_PACKAGES += \
-	treble-overlay-xiaomi-cnsecurity \
+	treble-overlay-lenovo-y700-2023 \
 
